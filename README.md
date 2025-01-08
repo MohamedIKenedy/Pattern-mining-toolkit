@@ -1,5 +1,7 @@
 # Pattern Mining Toolkit
 
+## Data mining and itemset mining
+
 The Pattern Mining Toolkit is a Python library designed for various pattern mining algorithms. It provides implementations for several well-known algorithms, making it easier to analyze and extract patterns from text data.
 
 ## Features
